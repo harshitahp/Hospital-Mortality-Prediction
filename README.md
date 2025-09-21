@@ -1,9 +1,9 @@
 Data Set Used :- https://www.kaggle.com/datasets/mitishaagarwal/patient
 
-**Problem**
+**Problem**:-
 Healthcare professionals wanted to identify the main causes of in-hospital mortality for admitted patients. A better understanding of these causes could help in designing targeted interventions and evidence-based protocols to reduce preventable deaths.
 
-**My Approach**
+**My Approach**:-
 To address this problem, I carried out a comprehensive data analysis using SQL.
 
 **Data Preparation**
