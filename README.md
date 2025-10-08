@@ -1,3 +1,4 @@
+<img width="1365" height="766" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/506dd98b-f7b0-4847-b7c0-74b6114aedab" />
 Data Set Used :- https://www.kaggle.com/datasets/mitishaagarwal/patient
 
 **Problem**:-
